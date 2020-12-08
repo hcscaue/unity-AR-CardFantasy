@@ -1,12 +1,726 @@
 fileFormatVersion: 2
 guid: fb1032e611bfd8d4c8b2a75d1c42482f
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 2762056472669578880
+    second: spr_King2Combo_strip_no_bkg_0
+  - first:
+      213: -3833738199310834989
+    second: spr_King2Combo_strip_no_bkg_1
+  - first:
+      213: 8071520732810134870
+    second: spr_King2Combo_strip_no_bkg_2
+  - first:
+      213: -1870283147447047087
+    second: spr_King2Combo_strip_no_bkg_3
+  - first:
+      213: 2408751181625655276
+    second: spr_King2Combo_strip_no_bkg_4
+  - first:
+      213: -7333196635362840885
+    second: spr_King2Combo_strip_no_bkg_5
+  - first:
+      213: 3871821852754051512
+    second: spr_King2Combo_strip_no_bkg_6
+  - first:
+      213: -5487862648587841373
+    second: spr_King2Combo_strip_no_bkg_7
+  - first:
+      213: -2818253013123110866
+    second: spr_King2Combo_strip_no_bkg_8
+  - first:
+      213: 8218521421396404282
+    second: spr_King2Combo_strip_no_bkg_9
+  - first:
+      213: 3068376283534524948
+    second: spr_King2Combo_strip_no_bkg_10
+  - first:
+      213: 7783507460003926872
+    second: spr_King2Combo_strip_no_bkg_11
+  - first:
+      213: 4905034725708286197
+    second: spr_King2Combo_strip_no_bkg_12
+  - first:
+      213: -1712295897430432374
+    second: spr_King2Combo_strip_no_bkg_13
+  - first:
+      213: -6511502798008967792
+    second: spr_King2Combo_strip_no_bkg_14
+  - first:
+      213: -6409831479503038855
+    second: spr_King2Combo_strip_no_bkg_15
+  - first:
+      213: -7643987623307032853
+    second: spr_King2Combo_strip_no_bkg_16
+  - first:
+      213: -2955942254059609291
+    second: spr_King2Combo_strip_no_bkg_17
+  - first:
+      213: -1759054322308851364
+    second: spr_King2Combo_strip_no_bkg_18
+  - first:
+      213: -7844979181188145335
+    second: spr_King2Combo_strip_no_bkg_19
+  - first:
+      213: -6849640940992936067
+    second: spr_King2Combo_strip_no_bkg_20
+  - first:
+      213: 7848288955247389281
+    second: spr_King2Combo_strip_no_bkg_21
+  - first:
+      213: 25746707121449925
+    second: spr_King2Combo_strip_no_bkg_22
+  - first:
+      213: 2434676323927287887
+    second: spr_King2Combo_strip_no_bkg_23
+  - first:
+      213: -4096149601021772483
+    second: spr_King2Combo_strip_no_bkg_24
+  - first:
+      213: -3136791609145210786
+    second: spr_King2Combo_strip_no_bkg_25
+  - first:
+      213: 8275060402595056373
+    second: spr_King2Combo_strip_no_bkg_26
+  - first:
+      213: -2891333133922429795
+    second: spr_King2Combo_strip_no_bkg_27
+  - first:
+      213: -6004661156209228303
+    second: spr_King2Combo_strip_no_bkg_28
+  - first:
+      213: 6496695293775885422
+    second: spr_King2Combo_strip_no_bkg_29
+  - first:
+      213: 6668942022680438151
+    second: spr_King2Combo_strip_no_bkg_30
+  - first:
+      213: 4715795257050553569
+    second: spr_King2Combo_strip_no_bkg_31
+  - first:
+      213: 8037908073286708803
+    second: spr_King2Combo_strip_no_bkg_32
+  - first:
+      213: -666136468282449875
+    second: spr_King2Combo_strip_no_bkg_33
+  - first:
+      213: -1455223196492631091
+    second: spr_King2Combo_strip_no_bkg_34
+  - first:
+      213: -6428303141920565554
+    second: spr_King2Combo_strip_no_bkg_35
+  - first:
+      213: 5134070527898812761
+    second: spr_King2Combo_strip_no_bkg_36
+  - first:
+      213: -5486508129040973140
+    second: spr_King2Combo_strip_no_bkg_37
+  - first:
+      213: 1383967893520040847
+    second: spr_King2Combo_strip_no_bkg_38
+  - first:
+      213: -8628213357872206639
+    second: spr_King2Combo_strip_no_bkg_39
+  - first:
+      213: -6848921981759018095
+    second: spr_King2Combo_strip_no_bkg_40
+  - first:
+      213: 6260781841960652298
+    second: spr_King2Combo_strip_no_bkg_41
+  - first:
+      213: -1046233413238657501
+    second: spr_King2Combo_strip_no_bkg_42
+  - first:
+      213: 5801428953079115555
+    second: spr_King2Combo_strip_no_bkg_43
+  - first:
+      213: 3576266456699436341
+    second: spr_King2Combo_strip_no_bkg_44
+  - first:
+      213: 2526225741045108349
+    second: spr_King2Combo_strip_no_bkg_45
+  - first:
+      213: -918417345770729354
+    second: spr_King2Combo_strip_no_bkg_46
+  - first:
+      213: -4990004357172839934
+    second: spr_King2Combo_strip_no_bkg_47
+  - first:
+      213: -1784225522158459866
+    second: spr_King2Combo_strip_no_bkg_48
+  - first:
+      213: -780066686480865169
+    second: spr_King2Combo_strip_no_bkg_49
+  - first:
+      213: 8189617603198327140
+    second: spr_King2Combo_strip_no_bkg_50
+  - first:
+      213: 4084884896644198281
+    second: spr_King2Combo_strip_no_bkg_51
+  - first:
+      213: 2302443967473582858
+    second: spr_King2Combo_strip_no_bkg_52
+  - first:
+      213: 2290034799258751598
+    second: spr_King2Combo_strip_no_bkg_53
+  - first:
+      213: -1670415637450336097
+    second: spr_King2Combo_strip_no_bkg_54
+  - first:
+      213: -7329649279142579569
+    second: spr_King2Combo_strip_no_bkg_55
+  - first:
+      213: -4804738073838855434
+    second: spr_King2Combo_strip_no_bkg_56
+  - first:
+      213: -6514731101675655799
+    second: spr_King2Combo_strip_no_bkg_57
+  - first:
+      213: 4456449378044356335
+    second: spr_King2Combo_strip_no_bkg_58
+  - first:
+      213: 8899224894555914766
+    second: spr_King2Combo_strip_no_bkg_59
+  - first:
+      213: -3424598396842440314
+    second: spr_King2Combo_strip_no_bkg_60
+  - first:
+      213: 9081137058520332919
+    second: spr_King2Combo_strip_no_bkg_61
+  - first:
+      213: -6612205916818431058
+    second: spr_King2Combo_strip_no_bkg_62
+  - first:
+      213: 2865127204193594292
+    second: spr_King2Combo_strip_no_bkg_63
+  - first:
+      213: 6916271785088220001
+    second: spr_King2Combo_strip_no_bkg_64
+  - first:
+      213: 4097670936410327123
+    second: spr_King2Combo_strip_no_bkg_65
+  - first:
+      213: -4591165065279017178
+    second: spr_King2Combo_strip_no_bkg_66
+  - first:
+      213: 234264365731802880
+    second: spr_King2Combo_strip_no_bkg_67
+  - first:
+      213: -2964010680575037365
+    second: spr_King2Combo_strip_no_bkg_68
+  - first:
+      213: 4458673710670336649
+    second: spr_King2Combo_strip_no_bkg_69
+  - first:
+      213: -7151695403559039754
+    second: spr_King2Combo_strip_no_bkg_70
+  - first:
+      213: 7328137753452340727
+    second: spr_King2Combo_strip_no_bkg_71
+  - first:
+      213: 7945744319307141805
+    second: spr_King2Combo_strip_no_bkg_72
+  - first:
+      213: -5158212253604182322
+    second: spr_King2Combo_strip_no_bkg_73
+  - first:
+      213: 8854653256513769176
+    second: spr_King2Combo_strip_no_bkg_74
+  - first:
+      213: 5383778113868531122
+    second: spr_King2Combo_strip_no_bkg_75
+  - first:
+      213: 4238571390422297749
+    second: spr_King2Combo_strip_no_bkg_76
+  - first:
+      213: -1233341125750476579
+    second: spr_King2Combo_strip_no_bkg_77
+  - first:
+      213: 915353941808506007
+    second: spr_King2Combo_strip_no_bkg_78
+  - first:
+      213: 3884790810460519618
+    second: spr_King2Combo_strip_no_bkg_79
+  - first:
+      213: 1703268506584368053
+    second: spr_King2Combo_strip_no_bkg_80
+  - first:
+      213: -7455655232519700640
+    second: spr_King2Combo_strip_no_bkg_81
+  - first:
+      213: -3074948512322023803
+    second: spr_King2Combo_strip_no_bkg_82
+  - first:
+      213: 6980403485477947293
+    second: spr_King2Combo_strip_no_bkg_83
+  - first:
+      213: 4418744885907440991
+    second: spr_King2Combo_strip_no_bkg_84
+  - first:
+      213: -6894065891160866276
+    second: spr_King2Combo_strip_no_bkg_85
+  - first:
+      213: 703564384267523055
+    second: spr_King2Combo_strip_no_bkg_86
+  - first:
+      213: 8689700524717832700
+    second: spr_King2Combo_strip_no_bkg_87
+  - first:
+      213: -2221947316181238254
+    second: spr_King2Combo_strip_no_bkg_88
+  - first:
+      213: 4019047252003232983
+    second: spr_King2Combo_strip_no_bkg_89
+  - first:
+      213: 7313623711594724735
+    second: spr_King2Combo_strip_no_bkg_90
+  - first:
+      213: 6962488746638647030
+    second: spr_King2Combo_strip_no_bkg_91
+  - first:
+      213: -7062084455438254492
+    second: spr_King2Combo_strip_no_bkg_92
+  - first:
+      213: -5066328583885058441
+    second: spr_King2Combo_strip_no_bkg_93
+  - first:
+      213: -8622078906506873431
+    second: spr_King2Combo_strip_no_bkg_94
+  - first:
+      213: 6563487290404557864
+    second: spr_King2Combo_strip_no_bkg_95
+  - first:
+      213: -6476893762590059173
+    second: spr_King2Combo_strip_no_bkg_96
+  - first:
+      213: -8093252150039440746
+    second: spr_King2Combo_strip_no_bkg_97
+  - first:
+      213: 4120928910820746318
+    second: spr_King2Combo_strip_no_bkg_98
+  - first:
+      213: 4404472874153162253
+    second: spr_King2Combo_strip_no_bkg_99
+  - first:
+      213: 885967052652128189
+    second: spr_King2Combo_strip_no_bkg_100
+  - first:
+      213: 6431182177370854534
+    second: spr_King2Combo_strip_no_bkg_101
+  - first:
+      213: 2191660228293338068
+    second: spr_King2Combo_strip_no_bkg_102
+  - first:
+      213: -268720461144940319
+    second: spr_King2Combo_strip_no_bkg_103
+  - first:
+      213: -6825674828100652235
+    second: spr_King2Combo_strip_no_bkg_104
+  - first:
+      213: 1744554858210833473
+    second: spr_King2Combo_strip_no_bkg_105
+  - first:
+      213: 3011670024030755444
+    second: spr_King2Combo_strip_no_bkg_106
+  - first:
+      213: -4137850293881100662
+    second: spr_King2Combo_strip_no_bkg_107
+  - first:
+      213: 6978357152991919878
+    second: spr_King2Combo_strip_no_bkg_108
+  - first:
+      213: -941911412120518691
+    second: spr_King2Combo_strip_no_bkg_109
+  - first:
+      213: -1564772121236292949
+    second: spr_King2Combo_strip_no_bkg_110
+  - first:
+      213: 2269506918737009767
+    second: spr_King2Combo_strip_no_bkg_111
+  - first:
+      213: 2461077739773364682
+    second: spr_King2Combo_strip_no_bkg_112
+  - first:
+      213: 6097178330021978282
+    second: spr_King2Combo_strip_no_bkg_113
+  - first:
+      213: -2435280534778635007
+    second: spr_King2Combo_strip_no_bkg_114
+  - first:
+      213: 217894775411715095
+    second: spr_King2Combo_strip_no_bkg_115
+  - first:
+      213: 887039920102844297
+    second: spr_King2Combo_strip_no_bkg_116
+  - first:
+      213: 7183422417493953846
+    second: spr_King2Combo_strip_no_bkg_117
+  - first:
+      213: 7380476604877587113
+    second: spr_King2Combo_strip_no_bkg_118
+  - first:
+      213: 2287089075421859340
+    second: spr_King2Combo_strip_no_bkg_119
+  - first:
+      213: -5392617667095477814
+    second: spr_King2Combo_strip_no_bkg_120
+  - first:
+      213: -3614029043389588677
+    second: spr_King2Combo_strip_no_bkg_121
+  - first:
+      213: 1377358267385761017
+    second: spr_King2Combo_strip_no_bkg_122
+  - first:
+      213: 7811474416967969502
+    second: spr_King2Combo_strip_no_bkg_123
+  - first:
+      213: 5716154169714724406
+    second: spr_King2Combo_strip_no_bkg_124
+  - first:
+      213: -1730861162256021977
+    second: spr_King2Combo_strip_no_bkg_125
+  - first:
+      213: 4461672088471396653
+    second: spr_King2Combo_strip_no_bkg_126
+  - first:
+      213: 7444119206309210687
+    second: spr_King2Combo_strip_no_bkg_127
+  - first:
+      213: -8718664286853939377
+    second: spr_King2Combo_strip_no_bkg_128
+  - first:
+      213: -5690208785470320614
+    second: spr_King2Combo_strip_no_bkg_129
+  - first:
+      213: 1007112178865847912
+    second: spr_King2Combo_strip_no_bkg_130
+  - first:
+      213: 4899054709757567246
+    second: spr_King2Combo_strip_no_bkg_131
+  - first:
+      213: 6511226049418080220
+    second: spr_King2Combo_strip_no_bkg_132
+  - first:
+      213: 5580267477362208759
+    second: spr_King2Combo_strip_no_bkg_133
+  - first:
+      213: -2626096214149852977
+    second: spr_King2Combo_strip_no_bkg_134
+  - first:
+      213: -577390137249968582
+    second: spr_King2Combo_strip_no_bkg_135
+  - first:
+      213: -6240916876691082641
+    second: spr_King2Combo_strip_no_bkg_136
+  - first:
+      213: 42949921437416821
+    second: spr_King2Combo_strip_no_bkg_137
+  - first:
+      213: -1849804874099989637
+    second: spr_King2Combo_strip_no_bkg_138
+  - first:
+      213: -6422888432571747401
+    second: spr_King2Combo_strip_no_bkg_139
+  - first:
+      213: -8427056626808960117
+    second: spr_King2Combo_strip_no_bkg_140
+  - first:
+      213: -5552541041038122482
+    second: spr_King2Combo_strip_no_bkg_141
+  - first:
+      213: -7504268788975982944
+    second: spr_King2Combo_strip_no_bkg_142
+  - first:
+      213: 7113724972659848260
+    second: spr_King2Combo_strip_no_bkg_143
+  - first:
+      213: 5610766492898349337
+    second: spr_King2Combo_strip_no_bkg_144
+  - first:
+      213: -4101141262456174682
+    second: spr_King2Combo_strip_no_bkg_145
+  - first:
+      213: 9177558244064386804
+    second: spr_King2Combo_strip_no_bkg_146
+  - first:
+      213: -7929938252151917078
+    second: spr_King2Combo_strip_no_bkg_147
+  - first:
+      213: -6340805023658339587
+    second: spr_King2Combo_strip_no_bkg_148
+  - first:
+      213: -570301738550545878
+    second: spr_King2Combo_strip_no_bkg_149
+  - first:
+      213: -426268571638999170
+    second: spr_King2Combo_strip_no_bkg_150
+  - first:
+      213: -7631200869316818654
+    second: spr_King2Combo_strip_no_bkg_151
+  - first:
+      213: -2161836241349810550
+    second: spr_King2Combo_strip_no_bkg_152
+  - first:
+      213: 4490143887620272219
+    second: spr_King2Combo_strip_no_bkg_153
+  - first:
+      213: 3621211965336600396
+    second: spr_King2Combo_strip_no_bkg_154
+  - first:
+      213: 5682984660121635413
+    second: spr_King2Combo_strip_no_bkg_155
+  - first:
+      213: 373866943722589741
+    second: spr_King2Combo_strip_no_bkg_156
+  - first:
+      213: -5325037082052695999
+    second: spr_King2Combo_strip_no_bkg_157
+  - first:
+      213: -6376621399651410880
+    second: spr_King2Combo_strip_no_bkg_158
+  - first:
+      213: 2280229318291675881
+    second: spr_King2Combo_strip_no_bkg_159
+  - first:
+      213: -1885302992644408536
+    second: spr_King2Combo_strip_no_bkg_160
+  - first:
+      213: 595516669190474692
+    second: spr_King2Combo_strip_no_bkg_161
+  - first:
+      213: 8000068931564783547
+    second: spr_King2Combo_strip_no_bkg_162
+  - first:
+      213: -8927208207938440748
+    second: spr_King2Combo_strip_no_bkg_163
+  - first:
+      213: -6925089756171758201
+    second: spr_King2Combo_strip_no_bkg_164
+  - first:
+      213: 3940330122955357601
+    second: spr_King2Combo_strip_no_bkg_165
+  - first:
+      213: -4318856126546594003
+    second: spr_King2Combo_strip_no_bkg_166
+  - first:
+      213: 1186107461494872549
+    second: spr_King2Combo_strip_no_bkg_167
+  - first:
+      213: 42448855880847972
+    second: spr_King2Combo_strip_no_bkg_168
+  - first:
+      213: 247937530841352299
+    second: spr_King2Combo_strip_no_bkg_169
+  - first:
+      213: 7076426828084553153
+    second: spr_King2Combo_strip_no_bkg_170
+  - first:
+      213: -1411268978300860162
+    second: spr_King2Combo_strip_no_bkg_171
+  - first:
+      213: -861819419734760481
+    second: spr_King2Combo_strip_no_bkg_172
+  - first:
+      213: -6757342085801989279
+    second: spr_King2Combo_strip_no_bkg_173
+  - first:
+      213: 2608402785509495634
+    second: spr_King2Combo_strip_no_bkg_0
+  - first:
+      213: -7044668449907491707
+    second: spr_King2Combo_strip_no_bkg_1
+  - first:
+      213: 2227595684503943308
+    second: spr_King2Combo_strip_no_bkg_2
+  - first:
+      213: -8245775079807928591
+    second: spr_King2Combo_strip_no_bkg_3
+  - first:
+      213: -7510279607596424485
+    second: spr_King2Combo_strip_no_bkg_4
+  - first:
+      213: -695363215828915805
+    second: spr_King2Combo_strip_no_bkg_5
+  - first:
+      213: -5062667694813409755
+    second: spr_King2Combo_strip_no_bkg_6
+  - first:
+      213: 5732309625607887246
+    second: spr_King2Combo_strip_no_bkg_7
+  - first:
+      213: -8985299046151848577
+    second: spr_King2Combo_strip_no_bkg_8
+  - first:
+      213: 3647912886546441917
+    second: spr_King2Combo_strip_no_bkg_9
+  - first:
+      213: 2029770503463414787
+    second: spr_King2Combo_strip_no_bkg_10
+  - first:
+      213: 7850850197035955937
+    second: spr_King2Combo_strip_no_bkg_11
+  - first:
+      213: 3085549171397807952
+    second: spr_King2Combo_strip_no_bkg_12
+  - first:
+      213: 5701092945812843819
+    second: spr_King2Combo_strip_no_bkg_13
+  - first:
+      213: 7404320515945176474
+    second: spr_King2Combo_strip_no_bkg_14
+  - first:
+      213: 8023862414342618291
+    second: spr_King2Combo_strip_no_bkg_15
+  - first:
+      213: 4334857351643394786
+    second: spr_King2Combo_strip_no_bkg_16
+  - first:
+      213: -2137927877548028694
+    second: spr_King2Combo_strip_no_bkg_17
+  - first:
+      213: -2437153702330196949
+    second: spr_King2Combo_strip_no_bkg_18
+  - first:
+      213: 4797573374642290707
+    second: spr_King2Combo_strip_no_bkg_19
+  - first:
+      213: -1826163593250440509
+    second: spr_King2Combo_strip_no_bkg_20
+  - first:
+      213: 6875294321965221074
+    second: spr_King2Combo_strip_no_bkg_21
+  - first:
+      213: -3543994086556751518
+    second: spr_King2Combo_strip_no_bkg_22
+  - first:
+      213: 4073534318350928363
+    second: spr_King2Combo_strip_no_bkg_23
+  - first:
+      213: -6285101014821385269
+    second: spr_King2Combo_strip_no_bkg_24
+  - first:
+      213: 8641076043722674108
+    second: spr_King2Combo_strip_no_bkg_25
+  - first:
+      213: -4792171298780535092
+    second: spr_King2Combo_strip_no_bkg_26
+  - first:
+      213: -6609203308134957773
+    second: spr_King2Combo_strip_no_bkg_27
+  - first:
+      213: -4210397946544055361
+    second: spr_King2Combo_strip_no_bkg_28
+  - first:
+      213: -3356258727961670071
+    second: spr_King2Combo_strip_no_bkg_29
+  - first:
+      213: 1360267743370015792
+    second: spr_King2Combo_strip_no_bkg_30
+  - first:
+      213: 5295125634513341329
+    second: spr_King2Combo_strip_no_bkg_31
+  - first:
+      213: 6626291854747408727
+    second: spr_King2Combo_strip_no_bkg_32
+  - first:
+      213: 2835461107327323868
+    second: spr_King2Combo_strip_no_bkg_33
+  - first:
+      213: -4574034496886598103
+    second: spr_King2Combo_strip_no_bkg_34
+  - first:
+      213: 1237345678244055752
+    second: spr_King2Combo_strip_no_bkg_35
+  - first:
+      213: 7475060476323711119
+    second: spr_King2Combo_strip_no_bkg_36
+  - first:
+      213: -3414850110723077121
+    second: spr_King2Combo_strip_no_bkg_37
+  - first:
+      213: -4670289902021684829
+    second: spr_King2Combo_strip_no_bkg_38
+  - first:
+      213: 717924117647375653
+    second: spr_King2Combo_strip_no_bkg_39
+  - first:
+      213: -4709632039745186817
+    second: spr_King2Combo_strip_no_bkg_40
+  - first:
+      213: 5899277019325494223
+    second: spr_King2Combo_strip_no_bkg_41
+  - first:
+      213: 1112856743970756346
+    second: spr_King2Combo_strip_no_bkg_42
+  - first:
+      213: -4451879068944362279
+    second: spr_King2Combo_strip_no_bkg_43
+  - first:
+      213: -1319363706280967536
+    second: spr_King2Combo_strip_no_bkg_44
+  - first:
+      213: -2209384088055809794
+    second: spr_King2Combo_strip_no_bkg_45
+  - first:
+      213: 618756979081408529
+    second: spr_King2Combo_strip_no_bkg_46
+  - first:
+      213: -8539301782959942181
+    second: spr_King2Combo_strip_no_bkg_47
+  - first:
+      213: 2779827428043084563
+    second: spr_King2Combo_strip_no_bkg_48
+  - first:
+      213: 5280315408118270153
+    second: spr_King2Combo_strip_no_bkg_49
+  - first:
+      213: 7711284436308845530
+    second: spr_King2Combo_strip_no_bkg_50
+  - first:
+      213: -1048212585546996115
+    second: spr_King2Combo_strip_no_bkg_51
+  - first:
+      213: -553134222724619666
+    second: spr_King2Combo_strip_no_bkg_52
+  - first:
+      213: -316050943271690777
+    second: spr_King2Combo_strip_no_bkg_53
+  - first:
+      213: -5674307500401135260
+    second: spr_King2Combo_strip_no_bkg_54
+  - first:
+      213: -7996200399216826573
+    second: spr_King2Combo_strip_no_bkg_55
+  - first:
+      213: 230815524830987058
+    second: spr_King2Combo_strip_no_bkg_56
+  - first:
+      213: 7275143229345681921
+    second: spr_King2Combo_strip_no_bkg_57
+  - first:
+      213: -3401160186093143305
+    second: spr_King2Combo_strip_no_bkg_58
+  - first:
+      213: -2526348834937832043
+    second: spr_King2Combo_strip_no_bkg_59
+  - first:
+      213: 6859688331489084147
+    second: spr_King2Combo_strip_no_bkg_60
+  - first:
+      213: 7449285382700727011
+    second: spr_King2Combo_strip_no_bkg_61
+  - first:
+      213: -4152421464996145425
+    second: spr_King2Combo_strip_no_bkg_62
+  - first:
+      213: 2846832149556640726
+    second: spr_King2Combo_strip_no_bkg_63
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -31,27 +745,27 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
-    wrapU: -1
-    wrapV: -1
+    wrapU: 1
+    wrapV: 1
     wrapW: -1
-  nPOTScale: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   maxTextureSizeSet: 0
@@ -61,10 +775,34 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 8192
     resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -73,11 +811,1229 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253de657388e23420800000000000000
+      internalID: 2608402785509495634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cbcda7e5f4c3e90800000000000000
+      internalID: -7044668449907491707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88fc0609720aee10800000000000000
+      internalID: 2227595684503943308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6b74eb04f119d80800000000000000
+      internalID: -8245775079807928591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2ea51fc7026c790800000000000000
+      internalID: -7510279607596424485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_5
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9e4a2e6d29956f0800000000000000
+      internalID: -695363215828915805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_6
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e0dc20e8acdb9b0800000000000000
+      internalID: -5062667694813409755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_7
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8919e0cb314d8f40800000000000000
+      internalID: 5732309625607887246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_8
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d7679af1ecd4380800000000000000
+      internalID: -8985299046151848577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_9
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6ab2e517dff9230800000000000000
+      internalID: 3647912886546441917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_10
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ca08ac4813b2c10800000000000000
+      internalID: 2029770503463414787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_11
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6322b98a2d3fc60800000000000000
+      internalID: 7850850197035955937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_12
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fca2a9f9212da20800000000000000
+      internalID: 3085549171397807952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_13
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2de8aa14d95e1f40800000000000000
+      internalID: 5701092945812843819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_14
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d9c0c874e61c660800000000000000
+      internalID: 7404320515945176474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_15
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcff758a5c7a5f60800000000000000
+      internalID: 8023862414342618291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_16
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2f1b45bc1882c30800000000000000
+      internalID: 4334857351643394786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_17
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec485f2ced8452e0800000000000000
+      internalID: -2137927877548028694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_18
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c949dce9d7d2ed0800000000000000
+      internalID: -2437153702330196949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_19
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3100d6bc097649240800000000000000
+      internalID: 4797573374642290707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_20
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca7e8a23e928a6e0800000000000000
+      internalID: -1826163593250440509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_21
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d44ffa42c3f96f50800000000000000
+      internalID: 6875294321965221074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_22
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26923b8b72431dec0800000000000000
+      internalID: -3543994086556751518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_23
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be98ba941e9188830800000000000000
+      internalID: 4073534318350928363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_24
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbcf1a4de5d6c8a0800000000000000
+      internalID: -6285101014821385269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_25
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf4a3f11e44be770800000000000000
+      internalID: 8641076043722674108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_26
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc62d510899ce7db0800000000000000
+      internalID: -4792171298780535092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_27
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d774abb946744a0800000000000000
+      internalID: -6609203308134957773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_28
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb15311069a195c0800000000000000
+      internalID: -4210397946544055361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_29
+      rect:
+        serializedVersion: 2
+        x: 4640
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e4a89187c2c61d0800000000000000
+      internalID: -3356258727961670071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_30
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034fdfa3e44a0e210800000000000000
+      internalID: 1360267743370015792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_31
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b8b36b5b01c7940800000000000000
+      internalID: 5295125634513341329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_32
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7599844955155fb50800000000000000
+      internalID: 6626291854747408727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_33
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde4eacaad4995720800000000000000
+      internalID: 2835461107327323868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_34
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92611befbd3c580c0800000000000000
+      internalID: -4574034496886598103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_35
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca0a10b65feb2110800000000000000
+      internalID: 1237345678244055752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_36
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8846dd06efbcb760800000000000000
+      internalID: 7475060476323711119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_37
+      rect:
+        serializedVersion: 2
+        x: 5920
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbc52dbae30c90d0800000000000000
+      internalID: -3414850110723077121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_38
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a157ef041ccf2fb0800000000000000
+      internalID: -4670289902021684829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_39
+      rect:
+        serializedVersion: 2
+        x: 6240
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dbe086e2496f900800000000000000
+      internalID: 717924117647375653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_40
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff39030dc9604aeb0800000000000000
+      internalID: -4709632039745186817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_41
+      rect:
+        serializedVersion: 2
+        x: 6560
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3758081317ed150800000000000000
+      internalID: 5899277019325494223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_42
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6564eff49a17f00800000000000000
+      internalID: 1112856743970756346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_43
+      rect:
+        serializedVersion: 2
+        x: 6880
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d41398e29fb732c0800000000000000
+      internalID: -4451879068944362279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_44
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092849d03bda0bde0800000000000000
+      internalID: -1319363706280967536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_45
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef87803b0e0b651e0800000000000000
+      internalID: -2209384088055809794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_46
+      rect:
+        serializedVersion: 2
+        x: 7360
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110f074b134469800800000000000000
+      internalID: 618756979081408529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_47
+      rect:
+        serializedVersion: 2
+        x: 7520
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd510d4854e4e7980800000000000000
+      internalID: -8539301782959942181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_48
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3135561515ee39620800000000000000
+      internalID: 2779827428043084563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_49
+      rect:
+        serializedVersion: 2
+        x: 7840
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c849ea23e2774940800000000000000
+      internalID: 5280315408118270153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_50
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3ef24b65cf30b60800000000000000
+      internalID: 7711284436308845530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_51
+      rect:
+        serializedVersion: 2
+        x: 8160
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66a06505300471f0800000000000000
+      internalID: -1048212585546996115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_52
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e622365ea5fd258f0800000000000000
+      internalID: -553134222724619666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_53
+      rect:
+        serializedVersion: 2
+        x: 8480
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed1d5377592d9bf0800000000000000
+      internalID: -316050943271690777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_54
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4617144646fc041b0800000000000000
+      internalID: -5674307500401135260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_55
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33728d34a1ac70190800000000000000
+      internalID: -7996200399216826573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_56
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23342363f75043300800000000000000
+      internalID: 230815524830987058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_King2Combo_strip_no_bkg_57
+      rect:
+        serializedVersion: 2
+        x: 9120
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102dc33c83086f460800000000000000
+      internalID: 7275143229345681921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 811a6734aabd6fd4b8f6bb0ec9439e6b
     internalID: 0
     vertices: []
     indices: 
