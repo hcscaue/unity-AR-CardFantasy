@@ -19,6 +19,5 @@ MonoBehaviour:
   multiplyAttack: 1.5
   animator: {fileID: 0}
   special: 1
-  descriptionSpecial: Ao Sacrificar metade do dano que levaria do oponente, consegue
-    impedir seu ataque.
+  descriptionSpecial: Ao ser atacado, ganha uma pedra de mana.
   cooldown: 4

@@ -16,8 +16,8 @@ public class CardHero : ScriptableObject
 
     public Animator animator;
 
-    public enum Special { Shielded, Commandment, Enraged }
-    public Special special;
+    public enum Passive { Shielded, LootReal, Enraged }
+    public Passive special;
 
     [Multiline]
     public string descriptionSpecial;
