@@ -13,12 +13,14 @@ MonoBehaviour:
   m_Name: Blacksmith
   m_EditorClassIdentifier: 
   heroName: Blacksmith
-  descriptionHero: 
+  descriptionHero: "A classe Ferreiro Corrompido vive em uma realidade alternativa
+    ao Cavaleiro e Arqueiro. Sobrevive fazendo armas e armaduras para o ex\xE9rcito
+    negro e ataca com duas armas, martelo e espada. "
   Life: 25
   Attack: 8
   multiplyAttack: 1.2
-  animator: {fileID: 0}
+  animator: {fileID: 9100000, guid: d881fddce3df3c04b9c3fff384d47286, type: 2}
   special: 2
-  descriptionSpecial: "Ao receber um ataque, golpeia duas vezes no pr\xF3ximo turno.
-    O segundo ataque tem dano reduzido pela metade."
+  descriptionSpecial: "Enfurecido- Ao receber um ataque, golpeia duas vezes no pr\xF3ximo
+    turno. O segundo ataque tem dano reduzido pela metade."
   cooldown: 2

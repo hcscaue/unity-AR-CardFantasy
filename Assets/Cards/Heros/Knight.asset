@@ -13,11 +13,14 @@ MonoBehaviour:
   m_Name: Knight
   m_EditorClassIdentifier: 
   heroName: Knight
-  descriptionHero: 
+  descriptionHero: "A classe Cavaleiro \xE9 reconhecida por todo o reino como Guerreiros
+    Inabal\xE1veis, possuem uma forte armadura e vida elevada. Luta contra os corrompidos,
+    seres de outra realidade que invadiram seu mundo atrav\xE9s de um misterioso
+    portal."
   Life: 30
   Attack: 5
   multiplyAttack: 1.2
-  animator: {fileID: 0}
+  animator: {fileID: 9100000, guid: 213db0e12aa5c5547add1054fa2c9edf, type: 2}
   special: 0
-  descriptionSpecial: "Todo dano recebido \xE9 diminuido em 2."
+  descriptionSpecial: "Blindado - Todo dano recebido \xE9 reduzido em 2."
   cooldown: 0

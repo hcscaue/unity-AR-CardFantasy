@@ -13,12 +13,15 @@ MonoBehaviour:
   m_Name: Archer
   m_EditorClassIdentifier: 
   heroName: Archer
-  descriptionHero: 
+  descriptionHero: "A classe Arqueira vive na floresta encantada ao redor do reino,
+    s\xE3o bem \xE1geis e usam t\xE9cnicas de ca\xE7a. Luta contra os corrompidos,
+    seres de outra realidade que invadiram seu mundo atrav\xE9s de um misterioso
+    portal."
   Life: 20
   Attack: 10
   multiplyAttack: 2
-  animator: {fileID: 0}
+  animator: {fileID: 9100000, guid: 008ee6e9ebefd064690e84841cbd235f, type: 2}
   special: 2
-  descriptionSpecial: "Ao receber um ataque, golpeia duas vezes no pr\xF3ximo turno.
-    O segundo ataque tem dano reduzido pela metade."
+  descriptionSpecial: "Enfurecido- Ao receber um ataque, golpeia duas vezes no pr\xF3ximo
+    turno. O segundo ataque tem dano reduzido pela metade."
   cooldown: 2

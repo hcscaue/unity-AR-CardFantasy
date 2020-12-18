@@ -1,8 +1,6 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.SceneManagement;
-using UnityEngine.UI;
+using TMPro;
 
 public class MenuSceneController : MonoBehaviour
 {
@@ -17,6 +15,10 @@ public class MenuSceneController : MonoBehaviour
 
     public Animator _animGeneral; 
     public Animator _animKnight, _animArcher, _animBlacksmith, _animKing;
+
+    public TextMeshProUGUI textLife, textAttack, textDescription;
+
+    public CardHero[] cardHeroes;
 
     private void Awake() {
         screen = Screen.Start; // Ensures that the Screen will start in the correct state.
@@ -93,6 +95,13 @@ public class MenuSceneController : MonoBehaviour
                 Debug.LogError("Héroi Invalido Definido.");
                 break;
         }
+
+        textLife.text = cardHeroes[(int) playerOneHero].Life.ToString();
+        textAttack.text = cardHeroes[(int) playerOneHero].Attack.ToString("D2");
+        
+        if ((int)playerOneHero == 0) textDescription.text = cardHeroes[(int)playerOneHero].descriptionHero + "\n\n" + cardHeroes[(int)playerOneHero].descriptionSpecial;
+        else textDescription.text = cardHeroes[(int)playerOneHero].descriptionHero + "\n\n" + cardHeroes[(int)playerOneHero].descriptionSpecial + " " + cardHeroes[(int)playerOneHero].cooldown.ToString("D2") + " Rodadas de tempo de espera.";
+
     }
 
     /// <summary>

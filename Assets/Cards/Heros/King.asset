@@ -13,11 +13,14 @@ MonoBehaviour:
   m_Name: King
   m_EditorClassIdentifier: 
   heroName: King
-  descriptionHero: 
+  descriptionHero: "A classe Rei Corrompido vive em uma realidade alternativa ao
+    Cavaleiro e Arqueiro. Comanda o seu ex\xE9rcito da retaguarda, auxiliando suas
+    tropas atrav\xE9s de magias proibidas, dizem que o Rei Corrompido pode ser o
+    motivo da abertura do portal."
   Life: 22
   Attack: 7
   multiplyAttack: 1.5
-  animator: {fileID: 0}
+  animator: {fileID: 9100000, guid: 1febb6a390d495b47806eceb3dcf6e2c, type: 2}
   special: 1
-  descriptionSpecial: Ao ser atacado, ganha uma pedra de mana.
+  descriptionSpecial: Saque Real - Ganha uma pedra de mana extra ao ser atacado.
   cooldown: 4

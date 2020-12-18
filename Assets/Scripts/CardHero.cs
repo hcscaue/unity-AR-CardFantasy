@@ -14,7 +14,7 @@ public class CardHero : ScriptableObject
     public int Life, Attack;
     public float multiplyAttack;
 
-    public Animator animator;
+    public RuntimeAnimatorController animator;
 
     public enum Passive { Shielded, LootReal, Enraged }
     public Passive special;
